@@ -1,3 +1,4 @@
+
 import logo from './logo.svg';
 import './App.css';
 
@@ -7,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         CRUD garay gamboa prueba de git push
+         Template para crear CRUD by Osvaldo Jacome & Gybran Garay
         </p>
         
       </header>
